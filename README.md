@@ -1,7 +1,7 @@
 # owf-data-co-dwr-districts #
 
 This repository contains the [Open Water Foundation (OWF)](https://openwaterfoundation.org)
-dataset files for Colorado Division of Water Resources Districts.
+dataset files for Colorado Division of Water Resources Water Districts.
 
 This repository contains workflow files to create GeoJSON file for the districts.
 The dataset files are also published on

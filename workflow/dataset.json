@@ -1,13 +1,13 @@
 {
-  "title": "Colorado Division of Water Resources Districts",
-  "description": "Colorado Division of Water Resources Districts.",
+  "title": "Colorado Division of Water Resources Water Districts",
+  "description": "Colorado Division of Water Resources Water Districts.",
   "identifier": "owf-data-co-dwr-districts",
   "landingPage": "https://data.openwaterfoundation.org/state/co/dwr/districts/",
   "issued": "2022-07-28",
   "keyword": [
     "polygon",
     "colorado division of water resources",
-    "districts"
+    "water districts"
   ],
   "publisher": {
     "name": "Open Water Foundation",
@@ -19,7 +19,7 @@
       "byteSize": null,
       "description": "Resource locator",
       "format": "application/geo+json",
-      "title": "Colorado Division of Water Resources Districts"
+      "title": "Colorado Division of Water Resources Water Districts"
     }
   ]
 }
