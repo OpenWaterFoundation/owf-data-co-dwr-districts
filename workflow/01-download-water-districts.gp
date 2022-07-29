@@ -2,6 +2,7 @@
 # - output are layers with water districts for each division, and layers with only the water district
 # - use the zipped shapefile on the CDSS website and split out Division 1
 # - this should only need to be done if setting up a new workspace
+CreateFolder(Folder="downloads",CreateParentFolders="True",IfFolderExists="Ignore")
 WebGet(URL="https://dnrftp.state.co.us/CDSS/GIS/Water_Districts.zip",OutputFile="downloads/Water_Districts.zip")
 # Unzip the zip file
 UnzipFile(File="downloads/Water_Districts.zip",OutputFolder="downloads/Water_Districts",IfFolderDoesNotExist="Create")
